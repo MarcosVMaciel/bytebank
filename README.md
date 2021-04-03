@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+Projeto criado com base na formação de flutter da <strong>Alura</strong> !
 
 ## Getting Started
 
